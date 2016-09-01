@@ -1,2 +1,2 @@
-#haha1
-#haha2
+all:
+	gcc prbs9.c -o prbs9.exe
